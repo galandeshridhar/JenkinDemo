@@ -1,1 +1,1 @@
-This is sample file created for jenkin demo
+Simple flask application for addition of two numbers
